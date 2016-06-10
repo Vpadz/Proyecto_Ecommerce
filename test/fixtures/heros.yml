@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  power: MyString
+  type_of: 1
+  owner: false
+  status: 1
+
+two:
+  name: MyString
+  power: MyString
+  type_of: 1
+  owner: false
+  status: 1
